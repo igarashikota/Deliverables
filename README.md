@@ -205,7 +205,7 @@ https://github.com/igarashikota/Deliverables/blob/main/%E8%B3%87%E6%96%99/%E5%88
  ### プログラミング
 
 <br/>
-<img src="./資料/その他/トレチア_ノード.png" width="40%">　<img src="./資料/その他/植物_コンポジティング.jpg" width="40%"><br/><br/>
+<img src="./資料/その他/ストレチア_ノード.png" width="40%">　<img src="./資料/その他/植物_コンポジティング.jpg" width="40%"><br/><br/>
 <img src="./資料/その他/合格証.jpg" width="40%"><br/><br/>
 <img src="./資料/その他/blender_デジタル数字.gif" width="40%">　<img src="./資料/その他/blenderのノード.jpg" width="40%"><br/><br/>
 <img src="./資料/その他/M5の系.jpg" width="40%"><br/><br/>
@@ -230,9 +230,9 @@ https://github.com/igarashikota/Deliverables/blob/main/%E8%B3%87%E6%96%99/%E5%88
 
 
  ### 絵
-<img src="./資料/その他/夜.png" width="80%"><br/><br/>
-<img src="./資料/その他/街.png" width="80%"><br/><br/>
-<img src="./資料/その他/フロランタン.png" width="80%"><br/><br/>
+<img src="./資料/その他/夜.png" width="60%"><br/><br/>
+<img src="./資料/その他/街.png" width="60%"><br/><br/>
+<img src="./資料/その他/フロランタン.jpg" width="60%"><br/><br/>
 <br/>
 
 <br/><br/>
