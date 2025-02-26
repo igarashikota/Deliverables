@@ -215,7 +215,10 @@ https://github.com/igarashikota/Deliverables/blob/main/%E8%B3%87%E6%96%99/%E5%88
 <img src="./資料/その他/スパイガ_閉.jpg" width="40%">　<img src="./資料/その他/スパイガ_開.jpg" width="50%"><br/><br/>
 <img src="./資料/その他/バルーン_CAM.jpg" width="40%">　<img src="./資料/その他/バルーン_プリンター.jpg" width="40%"><br/><br/>
 <img src="./資料/その他/kuma.png" width="40%"><br/><br/>
-
+<img src="./資料/その他/ポーズ.png" width="40%">　<img src="./資料/その他/完成3.png" width="40%"><br/><br/>
+<img src="./資料/その他/初めての顔_モデリング2.jpg" width="40%"> <img src="./資料/その他/初めての顔_色付け2.jpg" width="40%"><br/><br/>
+<img src="./資料/その他/轟.jpg" width="40%">　<img src="./資料/その他/全身.png" width="40%"><br/><br/>
+<img src="./資料/その他/目玉焼き.jpg" width="40%">　<img src="./資料/その他/夜食.jpg" width="40%"><br/><br/>
 <br/><br/>
  ### 絵
 
