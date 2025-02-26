@@ -204,13 +204,19 @@ https://github.com/igarashikota/Deliverables/blob/main/%E8%B3%87%E6%96%99/%E5%88
 
  ### プログラミング
 
-<img src="./資料/その他/M5の系.jpg" width="40%"><br/>
-<img src="./資料/その他/ぐるぐる.gif" width="40%"><br/>
-<img src="./資料/制作物1/制作物1.gif" width="40%"><br/>
+<br/>
+<img src="./資料/その他/トレチア_ノード.png" width="40%">　<img src="./資料/その他/植物_コンポジティング.jpg" width="40%"><br/><br/>
+<img src="./資料/その他/合格証.jpg" width="40%"><br/><br/>
+<img src="./資料/その他/blender_デジタル数字.gif" width="40%">　<img src="./資料/その他/blenderのノード.jpg" width="40%"><br/><br/>
+<img src="./資料/その他/M5の系.jpg" width="40%"><br/><br/>
+<img src="./資料/その他/ぐるぐる.gif" width="40%"><br/><br/>
+<img src="./資料/制作物1/制作物1.gif" width="40%"><br/><br/>
 
 <br/><br/>
- ### 3DCG
 
+ ### 3DCG
+ 
+<br/>
 <img src="./資料/その他/ドライブワイパー.bmp" width="40%"><br/><br/>
 <img src="./資料/その他/スパイガ_閉.jpg" width="40%">　<img src="./資料/その他/スパイガ_開.jpg" width="50%"><br/><br/>
 <img src="./資料/その他/バルーン_CAM.jpg" width="40%">　<img src="./資料/その他/バルーン_プリンター.jpg" width="40%"><br/><br/>
@@ -219,8 +225,15 @@ https://github.com/igarashikota/Deliverables/blob/main/%E8%B3%87%E6%96%99/%E5%88
 <img src="./資料/その他/初めての顔_モデリング2.jpg" width="40%"> <img src="./資料/その他/初めての顔_色付け2.jpg" width="40%"><br/><br/>
 <img src="./資料/その他/轟.jpg" width="40%">　<img src="./資料/その他/全身.png" width="40%"><br/><br/>
 <img src="./資料/その他/目玉焼き.jpg" width="40%">　<img src="./資料/その他/夜食.jpg" width="40%"><br/><br/>
+
 <br/><br/>
+
+
  ### 絵
+<img src="./資料/その他/夜.png" width="80%"><br/><br/>
+<img src="./資料/その他/街.png" width="80%"><br/><br/>
+<img src="./資料/その他/フロランタン.png" width="80%"><br/><br/>
+<br/>
 
 <br/><br/>
 </details>
