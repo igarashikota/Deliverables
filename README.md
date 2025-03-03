@@ -343,5 +343,6 @@ https://github.com/user-attachments/assets/b258c3b1-bd31-4227-82a0-e7c57d8209df
 <br/><br/>
 </details>
 <br/><br/>
-見ていただき本当にありがとうございました！！制作物のページはここまでです。
+制作物のページはここまでです。<br/>
+見ていただき本当にありがとうございました！！
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
