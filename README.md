@@ -268,7 +268,8 @@ https://github.com/igarashikota/Deliverables/blob/main/%E8%B3%87%E6%96%99/%E5%88
 
 ▼　応用Pythonプログラミングの授業の課題を解く際に面白くて作ったものです。※音が出ます<br/>
 
-https://github.com/user-attachments/assets/b258c3b1-bd31-4227-82a0-e7c57d8209df
+Uploading 応用Python１ - Jupyter Notebook - Google Chrome 2025-03-08 02-22-05.mp4…
+
 
 <br/><br/>
 
